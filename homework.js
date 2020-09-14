@@ -5,22 +5,44 @@
 //
 // If the potential member is not in the array, return the array unchanged.
 // If the potential member is in the array, remove all instances of it from the array.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 2. Revisit your "remove" function. Make sure that it does not change the original
 // array but instead returns a new array.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 3. Create a function called "sum" that takes an array of numbers and
 // returns the sum of those numbers.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 4. Create a function called "average" that takes an array of numbers
 // and returns the average of those numbers.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 5. Create a function called "minimum" that takes an array of numbers and
 // returns the smallest number in that array.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 6. There are many techniques to sort arrays in programming. Your programming
 // language will likely include the ability to do this. We are going to
 // implement sorting ourselves, however.
+
+
 //
 // A "selection sort" is one of the most simple sorting algorithms. To implement it,
 // you start with an unsorted array of numbers. You search the array and find the
@@ -41,9 +63,15 @@
 // Note 2: Selection sort can be implemented using one array. Read the explanation at
 // https://courses.cs.vt.edu/csonline/Algorithms/Lessons/SelectionSort/index.html
 // to see how. This may make more sense to you.
+//I am going to start every problem and go back to it
+//function
+
+
 
 // 7. Create a function called `textList` that takes an array and joins its elements
 // into a string separated by commas.
 //
 // For example, `textList(['Cadence', 'Ordel', 'Marion'])` results in the string
 // `"Cadence,Ordel,Marion"`.
+//I am going to start every problem and go back to it
+//function
